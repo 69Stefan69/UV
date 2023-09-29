@@ -1,5 +1,5 @@
 {
-    "name": "@titaniumnetwork-dev/ultraviolet",
+    "name": "@titaniumnetwork-dev/ultra",
     "version": "2.0.0",
     "description": "Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!",
     "main": "lib/index.cjs",
